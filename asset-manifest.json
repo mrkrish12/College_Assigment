@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/College_Assigment/static/css/main.403cad20.css",
+    "main.js": "/github.io/College_Assigment/static/js/main.7907658f.js",
+    "index.html": "/github.io/College_Assigment/index.html",
+    "main.403cad20.css.map": "/github.io/College_Assigment/static/css/main.403cad20.css.map",
+    "main.7907658f.js.map": "/github.io/College_Assigment/static/js/main.7907658f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403cad20.css",
+    "static/js/main.7907658f.js"
+  ]
+}
